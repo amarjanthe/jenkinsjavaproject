@@ -6,5 +6,7 @@ class Main
         System.out.println("Jenkins project we are using this code");
         System.out.println("adding the new line");
         System.out.println("adding the one more line");
+        Student student=new Student();
+        student.sayHello();
     }
 };
